@@ -1,0 +1,1 @@
+var bar = document.getElementsByClassName('bars')
